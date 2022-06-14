@@ -1,0 +1,13 @@
+
+2022-05-04 14:43:55,199 - DsAlgo -INFO - Clicked on get started
+2022-05-04 14:43:58,808 - DsAlgo -INFO - Registration test is passed
+2022-05-04 14:43:59,612 - DsAlgo -INFO - Registration test is failed
+2022-05-04 14:44:02,546 - DsAlgo -INFO - URL is opened
+2022-05-04 14:44:03,862 - DsAlgo -INFO - Login test is passed
+2022-05-04 14:44:04,137 - DsAlgo -INFO - URL is opened
+2022-05-04 14:44:15,089 - DsAlgo -INFO - Login test is failed
+2022-05-04 14:44:18,887 - DsAlgo -INFO - Array selected from dropdown
+2022-05-04 14:44:20,851 - DsAlgo -INFO - Arrays using list is clicked
+2022-05-04 14:44:21,644 - DsAlgo -INFO - Basic Operations in lists is clicked
+2022-05-04 14:44:22,420 - DsAlgo -INFO - Applications of array is clicked
+2022-05-04 14:44:23,314 - DsAlgo -INFO - Graph is selected from dropdown
